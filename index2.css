@@ -1,0 +1,21 @@
+*{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: rgb(246, 78, 78);
+    text-align: center;
+    margin: 100px 450px;
+    border-radius: 9px;
+
+}
+
+.wrapp{
+    display: flex;
+    margin: 50px 300px;
+}
+
+img {
+    max-width: 200px;
+}
